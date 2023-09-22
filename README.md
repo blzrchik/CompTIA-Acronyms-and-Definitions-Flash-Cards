@@ -24,5 +24,5 @@ A Python program to help you study and memorize CompTIA Core 1 acronyms and thei
    ```bash
    git clone https://github.com/your-username/CompTIA-Acronyms-and-Definitions-Flash-Cards.git
 
-# Forked French_to_English-Flash-Cards by abhishekbhardwaj2023 to alter its primary function and added additional functionality.
-Its a flash card based french learning game where you have to convert a word from French to English in your mind and then you will get a new card show where the meaning in English is written
+# Forked French_to_English-Flash-Cards by abhishekbhardwaj2023
+Original program was a flash card based french learning game where you have to convert a word from French to English in your mind and then you will get a new card show where the meaning in English is written.
